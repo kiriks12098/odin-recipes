@@ -1,8 +1,30 @@
 body {
     background-color: rgb(113, 157, 157);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img {
     width: auto;
     height: 300px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.optional {
+    font-style: italic;
+}
+
+.list-title {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.link {
+    font-size: 30px;
 }
